@@ -75,11 +75,12 @@ Presented at **INCOCOM 2026**
 
 ## 📫 Connect with Me
 
-📧 **Email:** your-email@example.com
+📧 **Email:** santhosh530d@example.com
 
-💼 **LinkedIn:** https://linkedin.com/in/your-profile
+💼 **LinkedIn:** https://www.linkedin.com/in/santhoshm-dev
 
-💻 **GitHub:** https://github.com/your-username
+
+
 
 ---
 
