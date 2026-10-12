@@ -1,87 +1,83 @@
-# Hey there! 👋 I'm Santhosh
+# Hey there! 👋 I'm Santhosh M
 
-### 🚀 Python Backend Developer | Software Engineer | AI Enthusiast
+### AI Developer | Python | LLM Applications | Backend Development
 
-I'm a Computer Science and Business Systems graduate passionate about building scalable backend applications, RESTful APIs, and AI-powered solutions. I enjoy solving real-world problems through clean, maintainable code and continuously learning modern technologies.
+I'm a Computer Science and Business Systems graduate interested in building practical AI applications and backend systems. I have hands-on experience with Python, LLM API integration, Retrieval-Augmented Generation (RAG), REST APIs, and machine learning. I enjoy solving real-world problems through clean code and continuously learning new technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science and Business Systems**
-  - Ramco Institute of Technology (Graduated: May 2026)
-- 💼 Former **Software Developer Intern** at **Vish Gyana Technology Solutions**
-- 🌱 Passionate about **Backend Development**, **Machine Learning**, and **Generative AI**
-- 💡 Interested in building scalable software that solves real-world problems
+- 🎓 B.Tech in Computer Science and Business Systems — Ramco Institute of Technology
+- 💼 Former Python Developer Intern at Vish Gyana Technology Solutions
+- 🤖 Interested in LLM applications, Generative AI, and Machine Learning
+- 🔍 Experienced in building document-based question-answering systems using RAG
+- 🌱 Continuously learning and exploring practical AI solutions
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-### 🤖 AI-Powered CRM Platform
-- FastAPI-based CRM backend with AI-powered email generation and lead scoring.
-- **Tech:** FastAPI, PostgreSQL, SQLAlchemy, Gemini API
+### 🤖 RAG-Based Company Policy Assistant
+- Built a document-based question-answering application for semantic search and context-aware responses.
+- Implemented document processing, text chunking, embeddings, and vector similarity retrieval.
+- **Tech:** Python, LangChain, ChromaDB, OpenAI API
 
-### 📊 Employee Attrition Insights
-- Machine learning platform for predicting employee attrition using an LSTM model.
-- **Research paper accepted and presented at INCOCOM 2026.**
-- **Tech:** Python, Django, TensorFlow/Keras, LSTM
+### 💼 AI-Powered CRM Platform
+- Developed a backend application to manage leads and customer information through REST APIs.
+- Integrated Gemini API for AI-powered customer email generation.
+- **Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy, Gemini API
 
-### 🎓 Student ERP System
-- Web-based ERP platform for managing student records, attendance, courses, and academic information.
-- **Tech:** Python, Django, MySQL
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-### 🤖 Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 📊 Employee Attrition Prediction System
+- Developed an employee attrition prediction platform using a trained LSTM model.
+- Built backend APIs using Node.js and Express.js to connect the application with the ML prediction service.
+- Research paper accepted and presented at INCOCOM 2026.
+- **Tech:** Python, Node.js, Express.js, LSTM, REST APIs
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Technical Skills
 
-🥇 **SQL Champion – 1st Place**  
-National Engineering College
+**Languages:** Python, JavaScript, SQL
 
-📄 **Accepted Research Paper**  
-Presented at **INCOCOM 2026**
+**AI & LLM:** RAG, LLM API Integration, Prompt Engineering, OpenAI API, Gemini API, LangChain
 
----
+**Backend & APIs:** FastAPI, Node.js, Express.js, REST APIs
 
-## 📫 Connect with Me
+**Machine Learning:** Scikit-learn, LSTM, Pandas, NumPy
 
-📧 **Email:** santhosh530d@example.com
+**Databases:** PostgreSQL, MySQL, ChromaDB
 
-💼 **LinkedIn:** https://www.linkedin.com/in/santhoshm-dev
-
-
-
+**Tools:** Git, GitHub
 
 ---
 
-### ⭐ *"Building scalable backend systems and AI-powered applications, one project at a time."*
+## 💼 Internship Experience
+
+**Python Developer Intern — Vish Gyana Technology Solutions**
+- Developed a RAG application for searching and answering questions from company policy documents.
+- Worked on document processing, embeddings, vector retrieval, and LLM integration.
+
+**AI & Machine Learning Intern — Edify Techno Solutions**
+- Worked on data preprocessing, feature selection, and machine learning model training and evaluation using Python and Scikit-learn.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 SQL Champion — 1st Place, National Engineering College (2024), among 100+ competitors
+- 📄 Research paper accepted and presented at INCOCOM 2026
+- 🎓 Wipro TalentNext — Full Stack Certification
+- 🐍 HackerRank Python (Basic) Certification
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** santhosh530d@gmail.com
+- **LinkedIn:** [santhoshm-dev](https://www.linkedin.com/in/santhoshm-dev)
+- **GitHub:** [santhoshdev-07](https://github.com/santhoshdev-07)
+
+---
+
+*Building practical AI applications, one project at a time.*
